@@ -1,0 +1,6 @@
+indexes:
+  tag: 'tags'
+  group: 'groups'
+publishdir: '_publish'
+baseurl: 'http://yamashi.ro'
+...
