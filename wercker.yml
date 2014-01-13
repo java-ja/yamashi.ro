@@ -3,6 +3,9 @@ build:
   steps:
     - setup-go-workspace
     - script:
+        name: get hugo
+        code: go get github.com/spf13/hugo
+    - script:
         name: install hugo
         code: go install github.com/spf13/hugo
     - script:
