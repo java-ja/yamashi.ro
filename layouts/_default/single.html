@@ -1,4 +1,14 @@
 {{ template "chrome/header.html" . }}
+    <title>{{ .Title }} - ymsr送別会</title>
+  </head>
+  <body>
+{{ template "chrome/menu.html" . }}
+    <div class="container" id="main">
+      <div class="row">
+        <div class="col-md-12">
           <h1>{{ .Title }}</h1>
           {{ .Content }}
+        </div>
+      </div>
+    </div>
 {{ template "chrome/footer.html" . }}
