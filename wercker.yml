@@ -11,6 +11,11 @@ build:
     - script:
         name: build site
         code: hugo
+    - script:
+        name: copy site output
+        code: |-
+          mkdir -P "$WERCKER_OUTPUT_DIR/_publish
+          cp --recursive _publish/* "$WERCKER_OUTPUT_DIR/_publish"
 deploy:
   steps:
     - s3sync:
