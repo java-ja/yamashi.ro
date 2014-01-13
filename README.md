@@ -34,3 +34,9 @@ yamashi.roは太一の個人的な支払いによって取得したドメイン�
 ビルドで特に複雑なことはしていないため、太一がサインアップしたwerckerのアカウントでビルドしています。
 
 [![wercker status](https://app.wercker.com/status/cced3ae771ca44b7d9baa34331657cff/m "wercker status")](https://app.wercker.com/project/bykey/cced3ae771ca44b7d9baa34331657cff)
+
+
+### Tumblr(javajaymsrアカウント)
+[tumblr.yamashi.ro](http://tumblr.yamashi.ro) は共同でReblogできますので、編集権が欲しい人は[太一](http://twitter.com/ryushi)にDM下さい。
+
+各人がymsrっぽいと思えるものなら何でもリブログする方向でお願いします。
