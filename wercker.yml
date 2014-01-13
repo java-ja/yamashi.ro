@@ -1,1 +1,10 @@
-box: wercker/default
+box: pjvds/golang
+build:
+  steps:
+    - setup-go-workspace
+    - script:
+        name: install hugo
+        code: go install github.com/spf13/hugo
+    - script:
+        name: build site
+        code: hugo
