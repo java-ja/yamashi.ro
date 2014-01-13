@@ -17,9 +17,6 @@ hugoはgoで実装されたStatic Site Generatorで、多くのプラットフ�
 ### ドメイン名
 yamashi.roは太一の個人的な支払いによって取得したドメイン名です
 
-### wercker
-ビルドで特に複雑なことはしていないため、太一がサインアップしたwerckerのアカウントでビルドしています。
-
 ### AWS
 
 現時点で利用しているAWSのサービスは、
@@ -32,3 +29,8 @@ yamashi.roは太一の個人的な支払いによって取得したドメイン�
 他のAWSサービスを利用したり、yamashi.roのサブドメインを利用したい場合は、太一に相談してください。基本的に対応します。
 
 尚、AWSにおける支払いは現時点ではごく少ないため太一が支払いします。
+
+### wercker
+ビルドで特に複雑なことはしていないため、太一がサインアップしたwerckerのアカウントでビルドしています。
+
+[![wercker status](https://app.wercker.com/status/cced3ae771ca44b7d9baa34331657cff/m "wercker status")](https://app.wercker.com/project/bykey/cced3ae771ca44b7d9baa34331657cff)
