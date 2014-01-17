@@ -4,7 +4,9 @@
 
 コミットがこのリポジトリのmasterブランチにマージされると[wercker](http://wercker.com/)でビルドされて、S3のyamashi.roバケットにデプロイされます。
 
-一人でサイトを充実させるのは、本当に大変なので**PRを強く強く希望します**。
+一人でサイトを充実させるのは、本当に大変なので**PRを強く強く希望します**。尚、[java-jaのメンバー](https://github.com/java-ja?tab=members)は、masterに直接pushできます。
+
+イベントへの参加登録は、[こちら](http://ymsr.peatix.com/)です。
 
 ## ビルドについて
 
@@ -46,3 +48,12 @@ yamashi.roは太一の個人的な支払いによって取得したドメイン�
 [tumblr.yamashi.ro](http://tumblr.yamashi.ro) は共同でReblogできますので、編集権が欲しい人は[太一](http://twitter.com/ryushi)にDMを下さい。
 
 各人がymsrっぽいと思えるものなら何でもリブログする方向でお願いします。
+
+現在、以下のメンバが管理者権限を持っているので、そちらへ連絡しても編集権を得られます。
+
+- drillbits
+- mesolabs
+- rokujyouhitoma
+- rosylilly
+- takano32
+- ymotongpoo
