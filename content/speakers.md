@@ -13,3 +13,4 @@ LTしたい人は以下の一覧を編集した上で[java-ja/yamashi.ro](https:
 - オオタニシンペイ [@shot6](https://twitter.com/shot6)
 - きしだなおき [@kis](https://twitter.com/kis)
 - れぐたん [@regtan](https://twitter.com/regtan)
+- 星一 [@hajimehoshi](https://twitter.com/hajimehoshi)
