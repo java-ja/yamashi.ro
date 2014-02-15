@@ -1,0 +1,84 @@
+body {
+    padding: 0;
+    background-image: url("/assets/img/feelingsquare_dl.jpg");
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0 20px 0;
+    color: white;
+    text-shadow: 
+        -1px -1px 0px #333333, 
+        1px -1px 0px #333333, 
+        1px 1px 0px #333333, 
+        -1px 1px 0px #333333, 
+        1px 2px 3px rgba(0, 0, 0, 0.6); 
+}
+
+div#space{
+    text-align: center;
+}
+
+div#space table{
+    margin: 0 auto 0 auto;
+    padding: 0;
+}
+
+div#space td {
+    margin: 0px;
+    padding: 0px;
+    width: 120px;
+    height: 160px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 64px;
+    font-family: Verdana;
+    background-repeat: no-repeat;
+}
+
+div#space .closed {
+    color: #99d9ea;
+    background-image: url("/assets/img/card.png");
+}
+
+
+div#space .opened {
+    color: red;
+    background-image: url("/assets/img/card_opened.png");
+    background-color: white;
+}
+
+div#word {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: 70%;
+}
+
+
+div#word div.rank {
+    margin: 30px 30px 150px auto;
+    padding: 30px;
+    text-align: center;
+    width: 340px;
+    height: 340px;
+    
+    font-weight: bold;
+    font-size: 260px;
+    font-family: Verdana;
+    
+    border: 20px solid red;
+    color: red;
+    background-color: white;
+    filter: alpha(opacity=85);
+    opacity: 0.85;
+    
+    text-shadow: 
+        -1px -1px 0px #333333, 
+        1px -1px 0px #333333, 
+        5px 5px 0px #333333, 
+        -1px 1px 0px #333333, 
+        1px 2px 3px rgba(0, 0, 0, 0.6); 
+}
