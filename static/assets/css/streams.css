@@ -1,5 +1,6 @@
 body {
     padding: 0;
+    background-color: #6d8682;
     background-image: url("/assets/img/feelingsquare_dl.jpg");
 }
 
@@ -46,6 +47,13 @@ div#space .opened {
     color: red;
     background-image: url("/assets/img/card_opened.png");
     background-color: white;
+}
+
+.about a:link
+, .about a:visited
+, .about a:hover
+, .about a:active{
+    color: white;
 }
 
 div#word {
